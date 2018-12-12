@@ -44,18 +44,6 @@ Un prototype sera bientôt à nouveau en ligne.
 
 <img src="docs/stack_original.png" alt="alt text" width="500px">  
 
-# Déploiement du prototype
-
-## Installation
-Installer Activator, Exist-DB, bower et npm puis :
-* `bower install`
-* `npm install`
-
-## Lancement
-* Compiler CSS: `gulp watch`
-* Exist-Db: `/opt/exist/bin/startup.sh`
-* Play Application: `/opt/activator/activator run` (in app root directory)
-
 ## Licence
 
 GNU GENERAL PUBLIC LICENSE
