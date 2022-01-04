@@ -1,6 +1,6 @@
-# Dedale.io
+# Philo.wiki
 
-Le projet *Dedale.io* vise à bâtir une plateforme open source pour l'étude des systèmes philosophiques basée sur les technologies des données liées (*linked data*).
+Le projet *Philo.wiki* vise à bâtir une plateforme open source pour l'étude des systèmes philosophiques basée sur les technologies des données liées (*linked data*).
 
 Un prototype sera bientôt à nouveau en ligne.
 
